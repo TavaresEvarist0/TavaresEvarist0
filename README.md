@@ -30,11 +30,9 @@
 <img align="center" alt="tavares-mysql" color="white" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
 
-##
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresEVarist0&layout=compact)](https://github.com/TavaresEvarist0/github-readme-stats)
-   
-##
-  
+## 🚀 Um Pouco mais sobre mim
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresEVarist0&layout=compact)](https://github.com/TavaresEvarist0/github-readme-stats) 
+
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=TavaresEvarist0&show_icons=true&theme=dracula"
