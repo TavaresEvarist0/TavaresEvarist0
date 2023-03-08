@@ -31,16 +31,16 @@
 </div>
 
 ## 🚀 Um Pouco mais sobre mim
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresEVarist0&layout=compact)](https://github.com/TavaresEvarist0/github-readme-stats) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
 
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=TavaresEvarist0&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=TavaresEvarist0&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=TavaresEvarist0&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true" />
 </picture>
