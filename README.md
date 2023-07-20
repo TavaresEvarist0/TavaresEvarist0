@@ -4,7 +4,7 @@
   <a href="https://instagram.com/tavares_evaristo?igshid=YmMyMTA2M2Y=" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "tavaresevaristo07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tavares-evaristo-62a3bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/tavares-evaristo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  ## 🛠  Tech Stack
@@ -29,7 +29,7 @@
    <img align="center" alt="tavares-git" color="white" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
-## 🚀 
+## 🚀 A Little More About My Profile
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
 
   <picture>
