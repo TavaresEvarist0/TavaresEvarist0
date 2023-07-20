@@ -1,4 +1,4 @@
-## 👋 Oláaa, eu sou o Tavares Evaristo, Desenvolvedor Front-end, Designer e Freelancer
+## 👋 Oláaa, eu sou o Tavares Evaristo, Desenvolvedor Front-end e Freelancer
 <div> 
    <a href="https://www.facebook.com/profile.php?id=100074407205942" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/tavares_evaristo?igshid=YmMyMTA2M2Y=" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
