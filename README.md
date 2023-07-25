@@ -22,9 +22,7 @@
    <img align="center" alt="tavares-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
    <img align="center" alt="tavares-tailwindcss" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  
- <img align="center" alt="tavares-Graphql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /> 
-  
+   
    <img align="center" alt="tavares-git" color="white" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
