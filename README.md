@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/tavares-evaristo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## About Me 🌟
+I'm a front-end developer passionate about creating attractive and interactive interfaces. I mainly work with React, Tailwind CSS and Bootstrap to build awesome user experiences.
+
  ## 🛠  My Tech Stack
 <div style="display: inline_block">
    <img align="center" alt="tavares-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
