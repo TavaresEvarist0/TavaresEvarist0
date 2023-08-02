@@ -8,7 +8,13 @@
 </div>
 
 ## About Me 🌟
-I'm a front-end developer passionate about creating attractive and interactive interfaces. I mainly work with React, Tailwind CSS and Bootstrap to build awesome user experiences.
+##### 🚀 I'm a front-end developer passionate about creating attractive and interactive interfaces. I mainly work with React, Tailwind CSS and Bootstrap to build awesome user experiences.
+
+##### 📚💼 Currently, I am a university student of Computer Science, In addition to my studies, I work as a freelancer, where I have the chance to collaborate on several exciting projects.
+
+##### 🔧🔗 One of my favorite tools is TypeScript, which I use to add security and robustness to my projects. I am experienced in working with REST APIs, allowing me to efficiently integrate the frontend with the backend.
+
+##### ✨ I'm excited to share my projects, experiments, and learnings here on GitHub. If you are looking for collaborators for a project or have interesting ideas to discuss, feel free to get in touch. I am always open to new partnerships and stimulating challenges. Let's create amazing things together! 🌟
 
  ## 🛠  My Tech Stack
 <div style="display: inline_block">
