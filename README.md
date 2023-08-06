@@ -12,7 +12,7 @@ I'm excited to share my projects, experiments, and learnings here on GitHub. If 
 
  - ⚡️ Main Language: `JavaScript`
    
- - ✨ Front-end: `ReactJS` `TypeScript` `JavaScript` `TailwindCSS` `REST API` `Bootstrap` `HTML5` `CSS3`
+ - ✨ Front-end: `ReactJS` `TypeScript` `JavaScript`  `REST API` `TailwindCSS` `Bootstrap` `SASS` `HTML5` `CSS3`
 
  - 🗃️ Version Code Controll: `Git & GitHub`
    
