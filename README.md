@@ -2,7 +2,7 @@
 
 ### About Me 🌟
 
-I'm a Front-end Web Developer and Freelancer, passionate about creating attractive, responsive and interactive interfaces. 
+I'm a Fullstack Web Developer and Freelancer, passionate about creating attractive, responsive and interactive interfaces. 
 I work as a freelancer, where I have the chance to collaborate on several exciting projects.
 
 I'm excited to share my projects, experiments, and learnings here on GitHub. If you are looking for collaborators for a project or have interesting ideas to discuss, feel free to get in touch. I am always open to new partnerships and stimulating challenges. Let's create amazing things together.
