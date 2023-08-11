@@ -12,11 +12,13 @@ I'm excited to share my projects, experiments, and learnings here on GitHub. If 
 
  - ⚡️ Main Language: `JavaScript`
    
- - ✨ Front-end: `ReactJS` `TypeScript` `JavaScript`  `REST API` `TailwindCSS` `Bootstrap` `SASS` `HTML5` `CSS3`
+ - 🎨 Front-end: `ReactJS` `TypeScript` `JavaScript`  `REST API` `TailwindCSS` `Bootstrap` `SASS`
+ 
+ - 🗃️ Back-end:  `Node` `Express` `REST API` `TypeScript` `MySQL` `PostgreSQL` `MongoDB` `SQLite`
 
- - 🗃️ Version Code Controll: `Git & GitHub`
+ - 📄 Version Code Controll: `Git & GitHub`
    
- - 🔨 Tools: `VS Code` `MarkDown` `Insomnia`
+ - 🔨 Tools: `VS Code` `MarkDown` `Insomnia` `Beekeeper Studio`
 
  ### 📱 Contact
  - 📱 Phone: *+244 936-561-472*
