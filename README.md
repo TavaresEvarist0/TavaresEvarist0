@@ -27,7 +27,7 @@ I'm excited to share my projects, experiments, and learnings here on GitHub. If 
 
  
    
-### 🚀 A Little More About My Profile
+### 🚀 A little more about my profile
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
 
 
