@@ -1,6 +1,6 @@
 🚀 🪩 **ABOUT ME**  
 
- I'm a Fullstack Web Developer and Freelancer, passionate about creating attractive, responsive and interactive interfaces. 
+ I'm a Web Developer and Freelancer, passionate about creating attractive, responsive and interactive interfaces. 
  I work as a freelancer, where I have the chance to collaborate on several exciting projects.
 
 
