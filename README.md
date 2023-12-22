@@ -1,38 +1,26 @@
-🚀 🪩 **ABOUT ME**  
+🚀 🪩 **SOBRE MIM**  
 
- I'm a Web Developer and Freelancer, passionate about creating attractive, responsive and interactive interfaces. 
- I work as a freelancer, where I have the chance to collaborate on several exciting projects.
+Olá, sou o Tavares! sou Enegenheiro de Software, trabalho com Desenvolvimento Mobile e Web. Atuo também como freelancer e estou disponível para colaborar em projetos.
 
+🛠 **MINHA STACK ACTUAL** 
 
-🛠 **MY CURRENT STACK** 
+- ⚡️  **Linguagem Principal**: `JavaScript`
 
- - ⚡️  **Main Language**: `JavaScrip`
-   
- - 🎨 **Front-end:** `ReactJS` `TypeScript` `REST API`  `JEST` `TailwindCSS` `Bootstrap` `SASS`
- 
- - 🗃️ **Back-end**:  `Node` `Express` `REST API` `TypeScript` `JEST` `MySQL` `PostgreSQL` `MongoDB`
+- 📱 **Desenvolvimento Mobile**: `React Native`
+  
+- 🎨 **Desenvolvimento Front-end**: `React.JS` `Next.js` `TypeScript` `REST API`  `JEST` `TailwindCSS` `Bootstrap` `SASS`
 
- - 📄 **Version Code Controll**: `Git & GitHub`
-   
- - 🔨 **Other Tools** `VSCode` `MarkDown` `Insomnia` `Beekeeper Studio`
+- 🗃️ **Back-end**:  `Node` `Express.js` `Nest.js` `REST API` `TypeScript` `JEST` `SQL`  `MongoDB`
 
- ### 📱 **CONTACT**
- - 📱 **Phone** +244 936-561-472
- - ✉️ **Email** tavaresevaristo07@gmail.com
- - 👨🏼‍🦰 **Linkedin** https://www.linkedin.com/in/tavares-evaristo/
+- 📄 **Controle de Versão**: `Git & GitHub`
+  
 
- 
-   
-### 🚀 A little more about my profile
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
- <img src="https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true" />
-</picture>
+### 📱 **CONTATO**
+- 📱 **Telefone**: +244 936-561-472
+- ✉️ **E-mail**: tavaresevaristo07@gmail.com
+- 👨🏼‍🦰 **Linkedin**: [Tavares Evaristo](https://www.linkedin.com/in/tavares-evaristo/)
+
+### 🚀 UM POUCO MAIS SOBRE MIM
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true&theme=dracula)
