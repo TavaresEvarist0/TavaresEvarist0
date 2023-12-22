@@ -1,6 +1,6 @@
 🚀 🪩 **SOBRE MIM**  
 
-Olá, sou o Tavares! sou Engenheiro de Software, trabalho com Desenvolvimento Mobile e Web. Atuo também como freelancer e estou disponível para colaborar em projetos.
+Olá, sou o Tavares! sou Engenheiro de Software, trabalho com Desenvolvimento Mobile e Web. Actuo também como freelancer e estou disponível para colaborar em projectos.
 
 🛠 **MINHA STACK ACTUAL** 
 
@@ -15,7 +15,8 @@ Olá, sou o Tavares! sou Engenheiro de Software, trabalho com Desenvolvimento Mo
 - 📄 **Controle de Versão**: `Git & GitHub`
   
 
-### 📱 **CONTATO**
+### 📱 **CONTACTO**
+
 - 📱 **Telefone**: +244 936-561-472
 - ✉️ **E-mail**: tavaresevaristo07@gmail.com
 - 👨🏼‍🦰 **Linkedin**: [Tavares Evaristo](https://www.linkedin.com/in/tavares-evaristo/)
