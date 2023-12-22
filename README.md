@@ -1,6 +1,6 @@
 🚀 🪩 **SOBRE MIM**  
 
-Olá, sou o Tavares! sou Enegenheiro de Software, trabalho com Desenvolvimento Mobile e Web. Atuo também como freelancer e estou disponível para colaborar em projetos.
+Olá, sou o Tavares! sou Engenheiro de Software, trabalho com Desenvolvimento Mobile e Web. Atuo também como freelancer e estou disponível para colaborar em projetos.
 
 🛠 **MINHA STACK ACTUAL** 
 
@@ -10,7 +10,7 @@ Olá, sou o Tavares! sou Enegenheiro de Software, trabalho com Desenvolvimento M
   
 - 🎨 **Desenvolvimento Front-end**: `React.JS` `Next.js` `TypeScript` `REST API`  `JEST` `TailwindCSS` `Bootstrap` `SASS`
 
-- 🗃️ **Back-end**:  `Node` `Express.js` `Nest.js` `REST API` `TypeScript` `JEST` `SQL`  `MongoDB`
+- 🗃️ **Desenvolvimento Back-end**:  `Node` `Express.js` `Nest.js` `REST API` `TypeScript` `JEST` `SQL`  `MongoDB`
 
 - 📄 **Controle de Versão**: `Git & GitHub`
   
