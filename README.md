@@ -10,7 +10,7 @@ Olá, sou o Tavares! sou Engenheiro de Software, trabalho com Desenvolvimento Mo
   
 - 🎨 **Desenvolvimento Front-end**: `React.js` `Next.js` `TypeScript` `REST API`  `JEST` `TailwindCSS` `Bootstrap` `SASS`
 
-- 🗃️ **Desenvolvimento Back-end**:  `Node.js` `Express.js` `Nest.js` `REST API` `TypeScript` `JEST` `SQL`  `MongoDB`
+- 🗃️ **Desenvolvimento Back-end**:  `Node.js` `Express.js` `Nest.js` `REST API` `TypeScript` `JEST` `SQL`  `MongoDB` `Prisma`
 
 - 📄 **Controle de Versão**: `Git & GitHub`
   
