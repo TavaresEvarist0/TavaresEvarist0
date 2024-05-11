@@ -6,7 +6,7 @@ I am a software developer based in Luanda, Angola, dedicated to my craft and pas
 
 - 📱 **Phone**: +244 936-561-472
 - ✉️ **E-mail**: tavaresevaristo07@gmail.com
-- 👨🏼‍🦰 **Linkedin**: [Tavares Evaristo](https://www.linkedin.com/in/tavares-evaristo/)
+- 👨🏼‍🦰 **LinkedLn**: [Tavares Evaristo](https://www.linkedin.com/in/tavares-evaristo/)
 - 👨🏼‍🦰 **Web Site**: [Tavares Evaristo - Software Developer](https://tavaresevaristo.vercel.app/)
 
 ### 🚀 A little more about me
