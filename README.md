@@ -13,3 +13,5 @@ I am a software developer based in Luanda, Angola, dedicated to my craft and pas
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresevaristo&layout=compact)](https://github.com/tavaresevaristo/github-readme-stats) 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true&theme=dracula)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tavaresevaristo&show_icons=true&theme=dracula&token=GH_TOKEN)
